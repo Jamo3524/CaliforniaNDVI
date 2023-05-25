@@ -8,9 +8,9 @@ I calculated the NDVI of radiometrically corrected, cloud-free Landsat 8 scenes 
 Python libraries used:
 
 
-* rasterio
-*xarray/rioxarray
-*fiona
-*geopandas
-*numpy
-*earthpy
+* Rasterio
+* xarray/rioxarray
+* Fiona
+* Geopandas
+* Numpy
+* Earthpy
